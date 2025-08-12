@@ -1,2 +1,5 @@
-# PagePort
-"Developed a web-based application that enables users to buy, sell, and reuse books. The platform also offers personalized recommendations based on user interests such as fiction, science, technology, and education. These features make the application both time-efficient and cost-effective
+# EBook-Oasis
+Developed a web-based application where users have many features like re-usability of books, buying and
+selling of used books also this application helps users to know the suggestion of their interest Ex. fiction,
+science, technology, education, etc. All these features makes this application time efficient and cost
+efficient.
